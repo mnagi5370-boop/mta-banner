@@ -1,4 +1,4 @@
 <meta>
-    <info author="Mohamed" version="1.0" type="script" />
+    <info author="SF" version="1.0" type="script" />
     <script src="client.lua" type="client" />
 </meta>
